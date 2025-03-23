@@ -5,7 +5,7 @@ var app = builder.Build();
 
 var inMemoryDb = new List<TodoItem>
 {
-    new TodoItem("Kjøpe ny støvsuger"),
+    new TodoItem("KjÃ¸pe ny stÃ¸vsuger"),
     new TodoItem("Skifte dekk") {Done = new DateTime(2020,11,4)},
     new TodoItem("Male huset"),
 };
