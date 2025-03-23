@@ -1,0 +1,362 @@
+{
+  "Version": 1,
+  "Hash": "hBb+Wr7CYUmO6yWNPnEL6q0jiY/ry7hr2e/ROc4OyLI=",
+  "Source": "SimpleTodoApp",
+  "BasePath": "_content/SimpleTodoApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SimpleTodoApp/wwwroot",
+      "Source": "SimpleTodoApp",
+      "ContentRoot": "/home/daniel/Desktop/SimpleTodoAppFrontendAndAPI/SimpleTodoApp/wwwroot/",
+      "BasePath": "_content/SimpleTodoApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/daniel/Desktop/SimpleTodoAppFrontendAndAPI/SimpleTodoApp/obj/Debug/net9.0/compressed/kju2evdayd-dbcggizkkj.gz",
+      "SourceId": "SimpleTodoApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/daniel/Desktop/SimpleTodoAppFrontendAndAPI/SimpleTodoApp/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/SimpleTodoApp",
+      "RelativePath": "index#[.{fingerprint=dbcggizkkj}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/home/daniel/Desktop/SimpleTodoAppFrontendAndAPI/SimpleTodoApp/wwwroot/index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "f597m6luzn",
+      "Integrity": "7VcQNdOquJmojU8AO8iSTcf4pRKesZJKIxBDDIecS9c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/home/daniel/Desktop/SimpleTodoAppFrontendAndAPI/SimpleTodoApp/wwwroot/index.html"
+    },
+    {
+      "Identity": "/home/daniel/Desktop/SimpleTodoAppFrontendAndAPI/SimpleTodoApp/wwwroot/index.html",
+      "SourceId": "SimpleTodoApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/daniel/Desktop/SimpleTodoAppFrontendAndAPI/SimpleTodoApp/wwwroot/",
+      "BasePath": "_content/SimpleTodoApp",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dbcggizkkj",
+      "Integrity": "WWoR/S2Q2mBrLUwhblFZ0DZLg3BL79zRqfXkm5lUA+U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.dbcggizkkj.html",
+      "AssetFile": "/home/daniel/Desktop/SimpleTodoAppFrontendAndAPI/SimpleTodoApp/obj/Debug/net9.0/compressed/kju2evdayd-dbcggizkkj.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001466275660"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "681"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7VcQNdOquJmojU8AO8iSTcf4pRKesZJKIxBDDIecS9c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 14:25:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"WWoR/S2Q2mBrLUwhblFZ0DZLg3BL79zRqfXkm5lUA+U=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dbcggizkkj"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WWoR/S2Q2mBrLUwhblFZ0DZLg3BL79zRqfXkm5lUA+U="
+        }
+      ]
+    },
+    {
+      "Route": "index.dbcggizkkj.html",
+      "AssetFile": "/home/daniel/Desktop/SimpleTodoAppFrontendAndAPI/SimpleTodoApp/wwwroot/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2057"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WWoR/S2Q2mBrLUwhblFZ0DZLg3BL79zRqfXkm5lUA+U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 14:25:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dbcggizkkj"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WWoR/S2Q2mBrLUwhblFZ0DZLg3BL79zRqfXkm5lUA+U="
+        }
+      ]
+    },
+    {
+      "Route": "index.dbcggizkkj.html.gz",
+      "AssetFile": "/home/daniel/Desktop/SimpleTodoAppFrontendAndAPI/SimpleTodoApp/obj/Debug/net9.0/compressed/kju2evdayd-dbcggizkkj.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "681"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7VcQNdOquJmojU8AO8iSTcf4pRKesZJKIxBDDIecS9c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 14:25:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dbcggizkkj"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7VcQNdOquJmojU8AO8iSTcf4pRKesZJKIxBDDIecS9c="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "/home/daniel/Desktop/SimpleTodoAppFrontendAndAPI/SimpleTodoApp/obj/Debug/net9.0/compressed/kju2evdayd-dbcggizkkj.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001466275660"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "681"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7VcQNdOquJmojU8AO8iSTcf4pRKesZJKIxBDDIecS9c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 14:25:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"WWoR/S2Q2mBrLUwhblFZ0DZLg3BL79zRqfXkm5lUA+U=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WWoR/S2Q2mBrLUwhblFZ0DZLg3BL79zRqfXkm5lUA+U="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "/home/daniel/Desktop/SimpleTodoAppFrontendAndAPI/SimpleTodoApp/wwwroot/index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2057"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WWoR/S2Q2mBrLUwhblFZ0DZLg3BL79zRqfXkm5lUA+U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 14:25:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WWoR/S2Q2mBrLUwhblFZ0DZLg3BL79zRqfXkm5lUA+U="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "/home/daniel/Desktop/SimpleTodoAppFrontendAndAPI/SimpleTodoApp/obj/Debug/net9.0/compressed/kju2evdayd-dbcggizkkj.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "681"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7VcQNdOquJmojU8AO8iSTcf4pRKesZJKIxBDDIecS9c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 23 Mar 2025 14:25:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7VcQNdOquJmojU8AO8iSTcf4pRKesZJKIxBDDIecS9c="
+        }
+      ]
+    }
+  ]
+}
