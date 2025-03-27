@@ -5,4 +5,4 @@ RUN npm install
 COPY SimpleTodoApp/ClientApp/ ./
 RUN npm run build && npm install -g http-server
 EXPOSE 3000
-CMD ["http-server", "dist", "-p", "3000", "--proxy", "http://backend:80"]
+CMD ["http-server", "dist", "-p", "3000", "--proxy", "http://backend:8080"]
