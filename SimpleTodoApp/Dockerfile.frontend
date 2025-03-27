@@ -1,9 +1,6 @@
 FROM node:alpine
 WORKDIR /app
-COPY SimpleTodoApp/ClientApp/package*.json ./
-RUN npm install
-COPY SimpleTodoApp/ClientApp/ ./
-RUN npm run build
+COPY SimpleTodoApp/ClientApp/dist ./dist
 RUN npm install -g http-server
 EXPOSE 3000
 CMD ["http-server", "dist", "-p", "3000", "--proxy", "http://backend:8080"]
