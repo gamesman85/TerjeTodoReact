@@ -7,12 +7,12 @@ export default defineConfig({
     port: 3000,
     proxy: {
       '/todo': {
-        target: 'http://localhost:5162',
+        target: 'http://backend:8080',
         secure: false
       }
     }
   },
   build: {
-    outDir: '../wwwroot'
+    outDir: 'dist'
   }
 })
